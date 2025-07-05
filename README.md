@@ -25,7 +25,7 @@
 
 + 🌟 Problem Solver: Approach challenges with out-of-the-box thinking
 + 🎨 Creative Innovator: Merge design and technology for impactful UX
-+ 📚 Constant Learner: Diving deep into Spring ecosystem
++ 📚 Constant Learner: Diving deep into learning new skill
 
 ### 🛠️ Tech Stack
 
