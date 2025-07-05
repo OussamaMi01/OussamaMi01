@@ -38,9 +38,6 @@
 # Creative Suite
 ### 🛠️ Tech Stack
 
-# Languages
-+ Java • Python • C# • HTML/CSS • JavaScript
-
 # Development Tools
 + Angular • Docker • Git • VS Code • Spring
 
