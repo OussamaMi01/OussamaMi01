@@ -1,26 +1,49 @@
+<!-- Banner -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b7c7c463-e2d1-4084-8727-44da50bccee3" height="200">
 </p>
+
 <br>
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=OussamaMi01&color=brightgreen" alt="profile_views">
- </p>
- <p align="center">
-<img src="https://img.shields.io/badge/Age-22-blue">
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-brightgreen">
-  <img src="https://img.shields.io/badge/Lives-Tunisia-success">
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20French%20%26%20German-brightgreen">
+
+<!-- Profile Viewshttps://komarev.com/ghpvc/?username=OussamaMi01&color=brightgreen
 </p>
-<hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Oussama Missaoui </h1>
-<h3 align="center">Software Engineering Student | Creative Graphic Designer | Visionary Digital Creator </h3>
+
+<!-- Badges -->
+
 <p align="center">
-<a href="https://www.linkedin.com/in/oussama-missaoui-a48589246/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30"></a>  
-<a href="https://github.com/OussamaMi01" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="30" width="30"></a>
-<a href="https://www.instagram.com/os.design.tn/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="instagram" height="30" width="30"></a>
+  <img src="https://img.shields.io/badge/Age-23-blue">
+  <img src="https://img.shields.io/badge/Focus-Software%20Engineering%20%2B%20Cybersecurity-brightgreen">
+  <img src="https://img.shields.io/badge/Lives-Tunisia-success">
+  <img src="https://img.shields.io/badge/Languages-English%20%7C%20French%20%7C%20German-brightgreen">
 </p>
+
+
 <hr>
 
+
+<!-- Title -->
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Oussama Missaoui
+</h1>
+
+<!-- Subtitle -->
+<h3 align="center">
+  Security‑Driven Software Engineer | Cybersecurity Master's Student | Creative Digital Builder
+</h3>
+
+<!-- Socials -->
+<p align="center">
+  <!-- LinkedIn -->
+ <a  href="https://www.linkedin.com/in/oussama-missaoui-a48589246/"> 
+    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/40b0869c-3973-4097-a380-9b3d099ece43" />
+  </a>
+
+
+  <a href="https://oussama-missaoui.netlify.app">
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/0f515c2a-ba93-432f-aed6-b479ff35c14f" />
+  </a>
+
+</p>
 ### 🚀 About Me
 
 + 🌟 Problem Solver: Approach challenges with out-of-the-box thinking
@@ -48,42 +71,72 @@
 
 <hr>
 
-### 🎯 2025 Goals: Becoming the Ultimate Tech Joker
+<h2>🎯 2026 Goal: Becoming the Ultimate Tech Joker</h2>
+<p>⚡ Blending <strong>Software Engineering Excellence</strong> with <strong>Cybersecurity Mastery</strong></p>
 
-#### 🌱 Core Competencies
+<h3>🌱 Core Competencies</h3>
 
-! Spring Framework Mastery 
-   - Spring Boot • Spring Security • Spring Data
-     
-! Frontend Specialization 
-   - React • Angular • TypeScript
-     
-! Backend Expertise 
-   - REST APIs • Node.js • Hibernate
-     
-#### ⚙️ Infrastructure & Operations
+<h4><strong>Spring Framework Mastery</strong></h4>
+<ul>
+  <li>Spring Boot • Spring Security • Spring Data</li>
+  <li>Robust backend engineering with secure-by-design principles</li>
+</ul>
 
-! DevOps Pipeline 
-   - CI/CD (Jenkins/GitHub Actions) • Kubernetes
-     
-! Cloud Platforms 
-   - AWS • Google Cloud
-     
-#### 🚀 Advanced Architecture
+<h4><strong>Frontend Engineering</strong></h4>
+<ul>
+  <li>React • Angular • TypeScript</li>
+  <li>Clean UI architecture • Component-driven development</li>
+</ul>
 
-! Microservices Implementation 
-   - Spring Cloud • Containerization • Service Mesh
-     
-#### 🃏 Ultimate Joker Skillset
+<h4><strong>Backend Expertise</strong></h4>
+<ul>
+  <li>REST APIs • Node.js • Hibernate</li>
+  <li>High-performance, scalable, and secure service development</li>
+</ul>
 
-! Cross-Functional Versatility 
-   - Full-stack proficiency • Design-Technical integration
-     
-! Team Integration Excellence 
-   - Agile collaboration • Knowledge sharing • Mentorship
+<h3>⚙️ Infrastructure &amp; Operations</h3>
 
-### 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=OussamaMi01&show_icons=true&theme=radical&hide_border=true" width="400"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaMi01&layout=compact&theme=radical&hide_border=true" width="350"> </p><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=OussamaMi01&theme=onedark&row=2&column=4&margin-w=15"> </p><hr>
+<h4><strong>DevOps Pipeline Engineering</strong></h4>
+<ul>
+  <li>CI/CD: Jenkins • GitHub Actions</li>
+  <li>Docker • Kubernetes • Infrastructure automation</li>
+</ul>
 
-- Let's create something extraordinary together!
+<h4><strong>Cloud Platforms</strong></h4>
+<ul>
+  <li>AWS • Google Cloud</li>
+  <li>Cloud-native design • IAM best practices • Secure deployments</li>
+</ul>
+
+<h3>🚀 Advanced Architecture</h3>
+
+<h4><strong>Microservices Implementation</strong></h4>
+<ul>
+  <li>Spring Cloud • Distributed systems</li>
+  <li>Containerization • Service Mesh • API gateways</li>
+</ul>
+
+<h3>🔐 Cybersecurity Edge (Master’s Depth)</h3>
+<ul>
+  <li>Secure Coding • Attack Surface Reduction</li>
+  <li>Threat Modeling • Vulnerability Assessment</li>
+  <li>Web Security (OWASP Top 10) • Authentication &amp; Access Control</li>
+  <li>DevSecOps Integration across the SDLC</li>
+</ul>
+
+<h3>🃏 Ultimate Tech Joker Skillset</h3>
+
+<h4><strong>Cross-Functional Versatility</strong></h4>
+<ul>
+  <li>Full-stack execution • Security engineering mindset</li>
+  <li>Bridging design, development, and defense</li>
+</ul>
+
+<h4><strong>Team Integration Excellence</strong></h4>
+<ul>
+  <li>Agile collaboration • Technical leadership potential</li>
+  <li>Knowledge sharing • Clear documentation &amp; mentorship</li>
+</ul>
+
+<h3>🔥 Always Building. Always Securing. Always Evolving.</h3>
 <p align="center"> <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"> </p>
