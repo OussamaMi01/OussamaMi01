@@ -44,28 +44,35 @@
   </a>
 
 </p>
-### 🚀 About Me
 
-+ 🌟 Problem Solver: Approach challenges with out-of-the-box thinking
-+ 🎨 Creative Innovator: Merge design and technology for impactful UX
-+ 📚 Constant Learner: Diving deep into learning new skill
+## 🚀 About Me
 
-### 🛠️ Tech Stack
++ 🌟 **Problem Solver** — I approach complex challenges with analytical, creative thinking  
++ 🎨 **Creative Innovator** — I merge design, engineering, and security for impactful digital experiences  
++ 📚 **Lifelong Learner** — Continuously leveling up in Software Engineering & Cybersecurity  
++ 🔐 **Security‑Driven Mindset** — Building systems that are fast, scalable, and secure by design
 
-# Languages
-+ Java • Python • C# • HTML/CSS • JavaScript
+## 🛠️ Tech Stack
 
-# Frameworks & Tools
+### Languages
+- **Java** • **Python** • **C#** • **JavaScript** • **HTML/CSS**
+### Development & Engineering
+- **REST APIs** • **Object-Oriented Design**  
+- **Microservices** • **Secure Coding Practices**
+### Development Tools
 + Angular • Docker • Git • VS Code • Spring
+### Frameworks & Tools
+- **Spring Boot** • **Angular** • **Node.js**  
+- **Git** • **Docker** • **VS Code** • **Postman**
 
-# Creative Suite
-### 🛠️ Tech Stack
 
-# Development Tools
-+ Angular • Docker • Git • VS Code • Spring
+## 🎨 Creative Suite
 
-# Creative Design
-+ Figma • Adobe Illustrator • CapCut
+- **Figma** • **Adobe Illustrator** • **CapCut**
+
+
+
+
 ### 🌟 Featured Projects
 <div align="center"> <table> <tr> <td width="50%"> <a href="https://github.com/OussamaMi01/Java-Image-Processing"> <img src="https://img.shields.io/badge/📸-Java_Image_Processing-2ea44f?style=for-the-badge&logo=java" alt="Java Project"> </a> <p>Advanced algorithms for image editing</p> </td> <td width="50%"> <a href="https://github.com/OussamaMi01/Csharp-Contact-Manager"> <img src="https://img.shields.io/badge/📇-C%23_Contact_Manager-178600?style=for-the-badge&logo=c-sharp" alt="C# Project"> </a> <p>Console-based contact management system</p> </td> </tr> </table> </div> 
 
